@@ -3,7 +3,7 @@ All Basics Fundamentals Problems for my Revision.
 <br>
 I have Created this Repository for Building Foundation(Base Level) 
 
-Divided this Repo in 9 Files:-
+Divided this Repo in 7 Files:-
 <br>
 (1) Basic Question's
 <br>
@@ -19,10 +19,7 @@ Divided this Repo in 9 Files:-
 <br>
 (7)Recursion
 <br>
-(8) Array
-<br>
-(9) String
-<br>
+
 
 Deadline Date for Completion (27/1--30/1)
 
