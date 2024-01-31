@@ -3,7 +3,7 @@ All Basics Fundamentals Problems for my Revision.
 <br>
 I have Created this Repository for Building Foundation(Base Level) 
 
-Divided this Repo in 7 Files:-
+Divided this Repo in 7 Files(Total 45 Questions):-
 <br>
 (1) Basic Question's
 <br>
