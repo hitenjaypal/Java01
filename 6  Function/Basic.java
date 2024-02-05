@@ -13,3 +13,39 @@
 //          Do something here
 //     }
 // }
+
+
+//void function and its call
+//Write a function to calculate average of three numbers
+
+public class function_average {
+    public static void average(int a , int b, int c){
+        int average=(a+b+c)/3;
+        
+        System.out.println(average);
+        
+    }
+    public static void main(String args[]){
+    average(10,10,10);
+    }
+}
+
+
+//int function and its call
+public class AverageCalculator {
+    public static int calculateAverage(int num1, int num2, int num3) {
+        int sum = num1 + num2 + num3;
+        int average = sum / 3;
+        return average;
+    }
+
+    public static void main(String[] args) {
+        int num1 = 10;
+        int num2 = 20;
+        int num3 = 30;
+
+        int avg = calculateAverage(num1, num2, num3);
+
+        System.out.println("Average of the three numbers is: " + avg);
+    }
+}
