@@ -14,6 +14,8 @@
 //     }
 // }
 
+                     // Void Function mai print krwana pdega for calling that function in main function 
+                     // Int Function mai you just return in int function and print it in main function 
 
 //void function and its call
 //Write a function to calculate average of three numbers
