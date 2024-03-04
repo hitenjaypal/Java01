@@ -1,6 +1,6 @@
 // 2) Write a Program to check if an integer (entered by the user)
 // can be expressed as the sum of two prime numbers,if yes then
-// print all possible combinations with the use of functions.
+// print all possible combinations with the use of functions
 // Example
 // Enter a positive integer: 34
 // OUTPUT:
