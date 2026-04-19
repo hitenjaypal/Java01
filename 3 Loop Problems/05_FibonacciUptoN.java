@@ -1,4 +1,4 @@
-﻿// 5) Write a Program to Display Fibonacci Series upto
+// 5) Write a Program to Display Fibonacci Series upto
 // certain number n (n is entered by user)
 // Example: n=100
 // Output:

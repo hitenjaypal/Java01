@@ -1,4 +1,4 @@
-﻿// 3) Write a Program to Generate Multiplication Table of a number (entered by the user) using a for loop.
+// 3) Write a Program to Generate Multiplication Table of a number (entered by the user) using a for loop.
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-﻿// 6) Inverted Full pyramid
+// 6) Inverted Full pyramid
 // * * * * * *
 //  * * * * *
 //  * * * *

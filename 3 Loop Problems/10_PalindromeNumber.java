@@ -1,4 +1,4 @@
-﻿// 12) Write a Program to Check Whether a Number N entered by user is Palindrome or Not
+// 12) Write a Program to Check Whether a Number N entered by user is Palindrome or Not
 
 import java.util.*;
 class PalindromeNumber {

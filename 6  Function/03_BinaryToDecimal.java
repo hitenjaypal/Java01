@@ -1,4 +1,4 @@
-﻿// 3) Write a Program to Convert Binary Number to Decimal manually by creating user-defined functions.
+// 3) Write a Program to Convert Binary Number to Decimal manually by creating user-defined functions.
 
 class BinaryToDecimal{
     public static void binarytodecimal(int binnum){

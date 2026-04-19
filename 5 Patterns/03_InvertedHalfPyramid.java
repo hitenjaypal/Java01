@@ -1,4 +1,4 @@
-﻿// 4) Inverted Half pyramid
+// 4) Inverted Half pyramid
 // * * * * * *
 // * * * * *
 // * * * *

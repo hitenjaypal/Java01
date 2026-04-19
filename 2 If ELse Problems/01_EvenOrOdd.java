@@ -1,4 +1,4 @@
-﻿ // 1) Write a Program to Check Whether Number is Even or Odd
+ // 1) Write a Program to Check Whether Number is Even or Odd
 
  class EvenOrOdd {
     public static void main(String[] args) {

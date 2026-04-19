@@ -1,4 +1,4 @@
-﻿// 6) Write a Program to Swap Two Numbers
+// 6) Write a Program to Swap Two Numbers
 
 class SwapNumbers {
     public static void main(String[] args) {

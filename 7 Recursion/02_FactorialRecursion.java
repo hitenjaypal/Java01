@@ -1,4 +1,4 @@
-﻿//2) Write a Program to Calculate Factorial of a Number Using Recursion
+//2) Write a Program to Calculate Factorial of a Number Using Recursion
 
 class FactorialRecursion {
     

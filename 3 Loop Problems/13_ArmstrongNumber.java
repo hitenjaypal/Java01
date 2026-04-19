@@ -1,4 +1,4 @@
-﻿// 15) Write a Program to check whether a number entered by the user is an Armstrong number or not.
+// 15) Write a Program to check whether a number entered by the user is an Armstrong number or not.
 
 class ArmstrongNumber {
     public static void main(String[] args) {

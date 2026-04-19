@@ -1,4 +1,4 @@
-﻿// 5) Full Pyramid Star Pattern
+// 5) Full Pyramid Star Pattern
 
 class FullPyramid {
     public static void pyramid(int n) {

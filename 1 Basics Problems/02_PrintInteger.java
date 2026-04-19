@@ -1,4 +1,4 @@
-﻿//2) Write a Program to Print Integer Number Entered by User
+//2) Write a Program to Print Integer Number Entered by User
 
 import java.util.Scanner;
 

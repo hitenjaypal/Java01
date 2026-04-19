@@ -1,4 +1,4 @@
-﻿//3) Write a Program to Find G.C.D of two numbers entered by user Using Recursion
+//3) Write a Program to Find G.C.D of two numbers entered by user Using Recursion
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-﻿// 8) Write a Program to Reverse a given Number N by user
+// 8) Write a Program to Reverse a given Number N by user
 
 
 class ReverseNumber{

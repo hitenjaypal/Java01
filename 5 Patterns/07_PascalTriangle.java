@@ -1,4 +1,4 @@
-﻿// 9) Pascal Triangle
+// 9) Pascal Triangle
 
 //  1
 //  1 1

@@ -1,4 +1,4 @@
-﻿//4) Write a Program that calculates the power of a number using recursion where base and exponent is entered by the user.
+//4) Write a Program that calculates the power of a number using recursion where base and exponent is entered by the user.
 
 // Java program to find the power of a number
 // using Recursion

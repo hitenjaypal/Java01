@@ -1,4 +1,4 @@
-﻿// 1) Solid Rectangular star
+// 1) Solid Rectangular star
 // * * * * *
 // * * * * *
 // * * * * *

@@ -1,4 +1,4 @@
-﻿//5) Write a Program to Find Size of int, float, double and char in your computer
+//5) Write a Program to Find Size of int, float, double and char in your computer
 
 class DataTypeSizes {
     public static void main(String[] args) {

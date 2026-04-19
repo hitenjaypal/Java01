@@ -1,4 +1,4 @@
-﻿// 8) Half pyramid using numbers
+// 8) Half pyramid using numbers
 // 1
 // 1 2
 // 1 2 3

@@ -1,4 +1,4 @@
-﻿// 2) Write a Program to Find Factorial of a given number N (N is entered by user)
+// 2) Write a Program to Find Factorial of a given number N (N is entered by user)
 
 class Factorial {
     public static void main(String[] args) {

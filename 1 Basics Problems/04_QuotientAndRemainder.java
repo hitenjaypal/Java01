@@ -1,4 +1,4 @@
-﻿// 4) Write a program where the user is asked to enter two integers (divisor and dividend) &
+// 4) Write a program where the user is asked to enter two integers (divisor and dividend) &
 //the quotient and the remainder of their division is computed.(Both divisor and dividend should be integers.)
 import java.util.*;
 

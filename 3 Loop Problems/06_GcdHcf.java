@@ -1,4 +1,4 @@
-﻿// 6) Write a Program to Find GCD or HCF of two numbers entered by user
+// 6) Write a Program to Find GCD or HCF of two numbers entered by user
 
 import java.util.*;
 

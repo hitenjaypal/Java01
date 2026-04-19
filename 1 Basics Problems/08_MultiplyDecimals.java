@@ -1,4 +1,4 @@
-﻿// 8) Write a Program to Multiply two decimal Numbers entered by User
+// 8) Write a Program to Multiply two decimal Numbers entered by User
 
 import java.util.*;
 

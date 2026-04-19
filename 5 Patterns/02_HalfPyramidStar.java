@@ -1,4 +1,4 @@
-﻿// 3) Half Pyramid Star Pattern 
+// 3) Half Pyramid Star Pattern 
 // *
 // * *
 // * * *

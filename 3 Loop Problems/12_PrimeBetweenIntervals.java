@@ -1,4 +1,4 @@
-﻿// 14) Write a Program to Display Prime Numbers Between
+// 14) Write a Program to Display Prime Numbers Between
 // Two Intervals (entered by user)
 // Example:
 // Enter two numbers: 0 20

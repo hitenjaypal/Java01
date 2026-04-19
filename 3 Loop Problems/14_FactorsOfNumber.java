@@ -1,4 +1,4 @@
-﻿// 16) Write a Program to Display all Factors of a Number entered by User
+// 16) Write a Program to Display all Factors of a Number entered by User
 
 import java.util.*;
 

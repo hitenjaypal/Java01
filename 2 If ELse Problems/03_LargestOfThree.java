@@ -1,4 +1,4 @@
-﻿// 3) Write a Program to Find Largest Number Among Three Numbers entered by users
+// 3) Write a Program to Find Largest Number Among Three Numbers entered by users
 import java.util.*;
 
 class LargestOfThree{

@@ -1,4 +1,4 @@
-﻿// // 5) Write a Program to Check whether a year entered by user is Leap Year or not
+// // 5) Write a Program to Check whether a year entered by user is Leap Year or not
 
 import java .util.*;
 

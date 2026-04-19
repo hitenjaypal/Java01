@@ -1,4 +1,4 @@
-﻿// 2) Write a Program to Check Whether a Character is Vowel or Consonant.
+// 2) Write a Program to Check Whether a Character is Vowel or Consonant.
 
 import java.util.*;
 

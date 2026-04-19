@@ -1,4 +1,4 @@
-﻿// 10) Write a Program to Calculate Power of a Number using inbuilt pow() function by taking two inputs from users as Base and exponent respectively
+// 10) Write a Program to Calculate Power of a Number using inbuilt pow() function by taking two inputs from users as Base and exponent respectively
 
 import java.util.*;
 class PowerOfNumber {

@@ -1,4 +1,4 @@
-﻿// 9) Write a Program to display sum of all digits of a givenm Number N by user
+// 9) Write a Program to display sum of all digits of a givenm Number N by user
 
 import java.util.*;
 class SumOfDigits {
